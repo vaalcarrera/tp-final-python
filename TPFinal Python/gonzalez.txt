@@ -1,0 +1,5 @@
+Apellido, Nombre, DNI, Voto:
+Gonzalez, Sofia, 44308611, partido1
+Gonzalez, Juan, 41786644, partido3
+Gonzalez, Pedro, 41804586, partido1
+Gonzalez, Luis, 30326583, partido2
